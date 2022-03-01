@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\bin\Debug\net6.0\code001_vozvedeineVkvadrat.exe
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\bin\Debug\net6.0\code001_vozvedeineVkvadrat.deps.json
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\bin\Debug\net6.0\code001_vozvedeineVkvadrat.runtimeconfig.json
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\bin\Debug\net6.0\code001_vozvedeineVkvadrat.dll
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\bin\Debug\net6.0\code001_vozvedeineVkvadrat.pdb
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.AssemblyInfo.cs
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.dll
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\refint\code001_vozvedeineVkvadrat.dll
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.pdb
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\code001_vozvedeineVkvadrat.genruntimeconfig.cache
+C:\Users\S&T\Desktop\seminars C#\code001_vozvedeineVkvadrat\obj\Debug\net6.0\ref\code001_vozvedeineVkvadrat.dll
