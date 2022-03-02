@@ -7,37 +7,37 @@ switch (Days)
 {
     case 1:
     {
-        Console.WriteLine("the first day");
+        Console.WriteLine("Monday");
         break;
     }
     case 2:
     {
-        Console.WriteLine("the second day");
+        Console.WriteLine("Tuesday");
         break;
     }
         case 3:
     {
-        Console.WriteLine("the third day");
+        Console.WriteLine("Wednesday");
         break;
     }
         case 4:
     {
-        Console.WriteLine("the fourth day");
+        Console.WriteLine("Thursday");
         break;
     }    
         case 5:
     {
-        Console.WriteLine("the fifth day");
+        Console.WriteLine("Friday");
         break;
     }
         case 6:
     {
-        Console.WriteLine("the sixth day");
+        Console.WriteLine("Saturday");
         break;
     }
         case 7:
     {
-        Console.WriteLine("the seventh day");
+        Console.WriteLine("Sunday");
         break;
     }
 }
