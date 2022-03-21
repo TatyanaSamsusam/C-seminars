@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\bin\Debug\net6.0\code015_factorial.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\bin\Debug\net6.0\code015_factorial.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\bin\Debug\net6.0\code015_factorial.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\bin\Debug\net6.0\code015_factorial.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\bin\Debug\net6.0\code015_factorial.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\refint\code015_factorial.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\code015_factorial.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code015_factorial\obj\Debug\net6.0\ref\code015_factorial.dll
