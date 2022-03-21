@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\bin\Debug\net6.0\code016_random.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\bin\Debug\net6.0\code016_random.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\bin\Debug\net6.0\code016_random.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\bin\Debug\net6.0\code016_random.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\bin\Debug\net6.0\code016_random.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\refint\code016_random.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\code016_random.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_random\obj\Debug\net6.0\ref\code016_random.dll
