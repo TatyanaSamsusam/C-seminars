@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\bin\Debug\net6.0\code014_.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\bin\Debug\net6.0\code014_.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\bin\Debug\net6.0\code014_.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\bin\Debug\net6.0\code014_.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\bin\Debug\net6.0\code014_.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\refint\code014_.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\code014_.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code014_\obj\Debug\net6.0\ref\code014_.dll
