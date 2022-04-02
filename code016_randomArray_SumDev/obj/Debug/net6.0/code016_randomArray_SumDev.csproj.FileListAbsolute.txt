@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\bin\Debug\net6.0\code016_randomArray_SumDev.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\bin\Debug\net6.0\code016_randomArray_SumDev.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\bin\Debug\net6.0\code016_randomArray_SumDev.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\bin\Debug\net6.0\code016_randomArray_SumDev.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\bin\Debug\net6.0\code016_randomArray_SumDev.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\refint\code016_randomArray_SumDev.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\code016_randomArray_SumDev.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code016_randomArray_SumDev\obj\Debug\net6.0\ref\code016_randomArray_SumDev.dll
