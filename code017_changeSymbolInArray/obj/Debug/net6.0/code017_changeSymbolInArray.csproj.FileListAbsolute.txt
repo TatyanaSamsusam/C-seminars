@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\bin\Debug\net6.0\code017_changeSymbolInArray.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\bin\Debug\net6.0\code017_changeSymbolInArray.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\bin\Debug\net6.0\code017_changeSymbolInArray.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\bin\Debug\net6.0\code017_changeSymbolInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\bin\Debug\net6.0\code017_changeSymbolInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\refint\code017_changeSymbolInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\code017_changeSymbolInArray.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code017_changeSymbolInArray\obj\Debug\net6.0\ref\code017_changeSymbolInArray.dll
