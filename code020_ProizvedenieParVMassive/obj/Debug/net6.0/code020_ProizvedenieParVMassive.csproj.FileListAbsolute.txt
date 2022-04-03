@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\bin\Debug\net6.0\code020_ProizvedenieParVMassive.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\bin\Debug\net6.0\code020_ProizvedenieParVMassive.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\bin\Debug\net6.0\code020_ProizvedenieParVMassive.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\bin\Debug\net6.0\code020_ProizvedenieParVMassive.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\bin\Debug\net6.0\code020_ProizvedenieParVMassive.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\refint\code020_ProizvedenieParVMassive.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\code020_ProizvedenieParVMassive.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code020_ProizvedenieParVMassive\obj\Debug\net6.0\ref\code020_ProizvedenieParVMassive.dll
