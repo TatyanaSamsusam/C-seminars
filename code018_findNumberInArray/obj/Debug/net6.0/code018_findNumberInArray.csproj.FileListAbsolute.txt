@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\bin\Debug\net6.0\code018_findNumberInArray.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\bin\Debug\net6.0\code018_findNumberInArray.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\bin\Debug\net6.0\code018_findNumberInArray.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\bin\Debug\net6.0\code018_findNumberInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\bin\Debug\net6.0\code018_findNumberInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\refint\code018_findNumberInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\code018_findNumberInArray.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code018_findNumberInArray\obj\Debug\net6.0\ref\code018_findNumberInArray.dll
