@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\bin\Debug\net6.0\code019_countSpecialIndiexInArray.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\bin\Debug\net6.0\code019_countSpecialIndiexInArray.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\bin\Debug\net6.0\code019_countSpecialIndiexInArray.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\bin\Debug\net6.0\code019_countSpecialIndiexInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\bin\Debug\net6.0\code019_countSpecialIndiexInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\refint\code019_countSpecialIndiexInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\code019_countSpecialIndiexInArray.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code019_countSpecialIndiexInArray\obj\Debug\net6.0\ref\code019_countSpecialIndiexInArray.dll
