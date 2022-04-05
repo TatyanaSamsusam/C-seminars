@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\bin\Debug\net6.0\code021_perevernutMassiv.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\bin\Debug\net6.0\code021_perevernutMassiv.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\bin\Debug\net6.0\code021_perevernutMassiv.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\bin\Debug\net6.0\code021_perevernutMassiv.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\bin\Debug\net6.0\code021_perevernutMassiv.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\refint\code021_perevernutMassiv.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\code021_perevernutMassiv.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code021_perevernutMassiv\obj\Debug\net6.0\ref\code021_perevernutMassiv.dll
