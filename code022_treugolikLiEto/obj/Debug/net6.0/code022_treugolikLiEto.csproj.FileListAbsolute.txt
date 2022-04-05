@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\bin\Debug\net6.0\code022_treugolikLiEto.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\bin\Debug\net6.0\code022_treugolikLiEto.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\bin\Debug\net6.0\code022_treugolikLiEto.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\bin\Debug\net6.0\code022_treugolikLiEto.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\bin\Debug\net6.0\code022_treugolikLiEto.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\refint\code022_treugolikLiEto.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\code022_treugolikLiEto.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code022_treugolikLiEto\obj\Debug\net6.0\ref\code022_treugolikLiEto.dll
