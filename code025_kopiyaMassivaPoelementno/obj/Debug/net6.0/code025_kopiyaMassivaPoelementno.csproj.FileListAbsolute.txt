@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\bin\Debug\net6.0\code025_kopiyaMassivaPoelementno.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\bin\Debug\net6.0\code025_kopiyaMassivaPoelementno.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\bin\Debug\net6.0\code025_kopiyaMassivaPoelementno.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\bin\Debug\net6.0\code025_kopiyaMassivaPoelementno.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\bin\Debug\net6.0\code025_kopiyaMassivaPoelementno.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\refint\code025_kopiyaMassivaPoelementno.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\code025_kopiyaMassivaPoelementno.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code025_kopiyaMassivaPoelementno\obj\Debug\net6.0\ref\code025_kopiyaMassivaPoelementno.dll
