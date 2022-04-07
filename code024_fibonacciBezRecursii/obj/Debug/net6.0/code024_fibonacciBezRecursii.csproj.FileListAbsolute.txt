@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\bin\Debug\net6.0\code024_fibonacciBezRecursii.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\bin\Debug\net6.0\code024_fibonacciBezRecursii.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\bin\Debug\net6.0\code024_fibonacciBezRecursii.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\bin\Debug\net6.0\code024_fibonacciBezRecursii.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\bin\Debug\net6.0\code024_fibonacciBezRecursii.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\refint\code024_fibonacciBezRecursii.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\code024_fibonacciBezRecursii.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code024_fibonacciBezRecursii\obj\Debug\net6.0\ref\code024_fibonacciBezRecursii.dll
