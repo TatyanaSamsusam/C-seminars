@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\bin\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\bin\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\bin\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\bin\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\bin\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\refint\code023_preobrazovatDesyatichnoeVDvoichnoe.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\code023_preobrazovatDesyatichnoeVDvoichnoe.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code023_preobrazovatDesyatichnoeVDvoichnoe\obj\Debug\net6.0\ref\code023_preobrazovatDesyatichnoeVDvoichnoe.dll
