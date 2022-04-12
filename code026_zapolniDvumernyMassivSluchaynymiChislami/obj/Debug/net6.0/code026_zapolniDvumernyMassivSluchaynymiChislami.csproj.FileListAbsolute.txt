@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\bin\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\bin\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\bin\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\bin\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\bin\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\refint\code026_zapolniDvumernyMassivSluchaynymiChislami.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\code026_zapolniDvumernyMassivSluchaynymiChislami.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code026_zapolniDvumernyMassivSluchaynymiChislami\obj\Debug\net6.0\ref\code026_zapolniDvumernyMassivSluchaynymiChislami.dll
