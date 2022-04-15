@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\bin\Debug\net6.0\code028_changeElementIn2DArray.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\bin\Debug\net6.0\code028_changeElementIn2DArray.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\bin\Debug\net6.0\code028_changeElementIn2DArray.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\bin\Debug\net6.0\code028_changeElementIn2DArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\bin\Debug\net6.0\code028_changeElementIn2DArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\refint\code028_changeElementIn2DArray.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\code028_changeElementIn2DArray.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code028_changeElementIn2DArray\obj\Debug\net6.0\ref\code028_changeElementIn2DArray.dll
