@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\bin\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\bin\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\bin\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\bin\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\bin\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\refint\code027_dvumernyMassivElementyPoFormule.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\code027_dvumernyMassivElementyPoFormule.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code027_dvumernyMassivElementyPoFormule\obj\Debug\net6.0\ref\code027_dvumernyMassivElementyPoFormule.dll
