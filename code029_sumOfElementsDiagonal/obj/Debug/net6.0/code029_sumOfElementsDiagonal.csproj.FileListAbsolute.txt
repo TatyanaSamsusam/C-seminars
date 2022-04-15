@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\bin\Debug\net6.0\code029_sumOfElementsDiagonal.exe
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\bin\Debug\net6.0\code029_sumOfElementsDiagonal.deps.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\bin\Debug\net6.0\code029_sumOfElementsDiagonal.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\bin\Debug\net6.0\code029_sumOfElementsDiagonal.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\bin\Debug\net6.0\code029_sumOfElementsDiagonal.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\refint\code029_sumOfElementsDiagonal.dll
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.pdb
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\code029_sumOfElementsDiagonal.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\seminars C#\code029_sumOfElementsDiagonal\obj\Debug\net6.0\ref\code029_sumOfElementsDiagonal.dll
